@@ -14,8 +14,7 @@
 that can be deployed on off-the-shelf edge computing device
 for vehicular platform. PV_ENcoNet can achieve about 17.92 and 24.25 FPS on two different edge
 computing platforms, and a detection accuracy comparable with
-the state-of-the-art models on the KITTI public dataset (i.e.,
-88.54% for car, 71.94% for pedestrian and 73.04% for cyclist).
+the state-of-the-art models on the KITTI public dataset.
 
 
 ## Evalution
