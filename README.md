@@ -6,7 +6,7 @@
 
 ### Workflow
 
-![image](https://github.com/XYunaaa/PV_ENcoNet/tree/master/fig/model.png)
+![image](https://github.com/XYunaaa/PV_ENcoNet/fig/model.png)
 
 ![image](https://github.com/XYunaaa/PV_ENcoNet/tree/master/fig/P-LocSt.png)
 
